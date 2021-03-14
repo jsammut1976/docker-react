@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          John Sammut - testing docker, node-js, travis, AWS ....
+          John Sammut - testing github, docker, node-js, travis, AWS ....
         </p>
         <a
           className="App-link"
